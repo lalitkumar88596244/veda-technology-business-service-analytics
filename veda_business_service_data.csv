@@ -1,0 +1,501 @@
+date,channel,service,customer_type,website_visitors,internship_applications,training_enrollments,it_service_inquiries,customer_service_requests,revenue
+2026-07-01,Organic Search,Website Development,Enterprise,438,9,57,21,9,31429.13
+2026-04-01,Direct,Digital Marketing,SME,114,3,43,53,10,39664.64
+2026-05-01,Paid Ads,Cloud Services,Startup,62,4,69,20,38,41483.28
+2026-07-01,Organic Search,App Development,Startup,262,8,21,54,40,94149.87
+2026-03-01,Organic Search,Website Development,Enterprise,291,11,34,18,33,37546.61
+2026-08-01,Direct,IT Support,SME,262,25,57,10,18,19612.65
+2026-05-01,Referral,Cloud Services,Startup,230,14,17,35,36,47672.07
+2026-05-01,Social Media,App Development,SME,387,30,25,51,38,117071.37
+2026-07-01,Direct,Digital Marketing,Startup,222,14,23,14,20,27038.01
+2026-02-01,Organic Search,IT Support,SME,209,13,57,13,30,39721.66
+2026-03-01,Social Media,Website Development,Startup,213,5,23,7,8,17298.35
+2026-07-01,Email,App Development,Enterprise,237,11,61,29,29,51209.74
+2026-03-01,Organic Search,Website Development,SME,444,18,29,14,10,15399.17
+2026-03-01,Direct,IT Support,SME,240,12,35,19,29,27484.16
+2026-08-01,Referral,Website Development,Startup,357,29,59,8,7,15400.43
+2026-05-01,Social Media,Cloud Services,Startup,305,15,27,35,30,56110.58
+2026-04-01,Social Media,IT Support,SME,232,13,36,7,18,15757.48
+2026-08-01,Social Media,Digital Marketing,SME,166,8,66,30,17,32868.13
+2026-08-01,Organic Search,App Development,SME,331,9,78,16,24,38614.57
+2026-03-01,Organic Search,IT Support,Startup,245,13,14,7,32,26038.38
+2026-06-01,Paid Ads,Website Development,Enterprise,83,2,76,35,4,65551.96
+2026-05-01,Paid Ads,IT Support,Individual,101,3,58,52,22,68224.68
+2026-02-01,Paid Ads,Website Development,Enterprise,161,4,56,50,27,115474.09
+2026-08-01,Referral,App Development,Startup,301,14,24,43,37,98095.01
+2026-04-01,Direct,IT Support,SME,131,10,36,21,43,36838.67
+2026-06-01,Direct,Website Development,Startup,281,11,18,24,38,51237.9
+2026-06-01,Paid Ads,Website Development,Startup,276,12,54,7,23,11453.38
+2026-02-01,Social Media,IT Support,Individual,282,20,32,4,43,42968.41
+2026-08-01,Social Media,IT Support,Startup,270,9,57,32,13,57580.46
+2026-04-01,Paid Ads,Cloud Services,SME,91,8,28,49,43,71663.3
+2026-05-01,Referral,Cloud Services,SME,70,4,26,41,14,47587.51
+2026-01-01,Organic Search,Cloud Services,Enterprise,91,5,34,6,12,12205.47
+2026-04-01,Organic Search,Website Development,SME,446,28,67,35,17,75003.51
+2026-02-01,Organic Search,App Development,Startup,162,5,8,15,9,15802.83
+2026-06-01,Direct,Website Development,SME,154,10,63,22,41,41725.76
+2026-05-01,Organic Search,Digital Marketing,SME,241,11,12,9,41,43023.53
+2026-04-01,Direct,Cloud Services,Startup,66,6,16,17,3,31277.59
+2026-01-01,Direct,App Development,SME,169,5,35,25,31,59785.08
+2026-01-01,Organic Search,App Development,Startup,442,26,38,16,31,27311.27
+2026-03-01,Direct,Digital Marketing,Startup,178,12,79,25,13,28875.58
+2026-03-01,Organic Search,Website Development,SME,179,4,53,21,11,24983.43
+2026-07-01,Organic Search,Cloud Services,Startup,109,5,61,31,12,28757.97
+2026-02-01,Paid Ads,App Development,SME,97,7,30,22,16,49912.47
+2026-08-01,Organic Search,Cloud Services,Enterprise,78,6,22,31,17,54601.84
+2026-04-01,Organic Search,Website Development,Enterprise,146,6,42,26,18,36726.37
+2026-04-01,Direct,Digital Marketing,Startup,59,4,54,20,27,50116.01
+2026-08-01,Paid Ads,Digital Marketing,Startup,291,28,12,12,3,11518.43
+2026-07-01,Organic Search,Cloud Services,Startup,363,32,45,43,13,66720.99
+2026-06-01,Social Media,Cloud Services,SME,281,8,10,10,27,34475.41
+2026-06-01,Organic Search,Digital Marketing,Enterprise,326,25,73,28,24,37406.58
+2026-07-01,Organic Search,IT Support,Startup,333,15,48,31,19,61648.67
+2026-06-01,Direct,Website Development,Individual,252,24,68,12,33,29558.74
+2026-03-01,Direct,Cloud Services,Startup,296,17,33,19,39,27543.74
+2026-04-01,Social Media,Cloud Services,SME,339,10,32,4,4,3697.68
+2026-07-01,Social Media,App Development,Enterprise,313,24,15,8,39,19665.96
+2026-04-01,Email,IT Support,Individual,263,12,69,7,4,12449.09
+2026-08-01,Direct,Digital Marketing,Enterprise,249,24,23,30,31,61711.62
+2026-01-01,Organic Search,Digital Marketing,Enterprise,128,12,13,43,2,54219.79
+2026-03-01,Paid Ads,App Development,SME,392,28,31,7,31,40888.1
+2026-05-01,Organic Search,Website Development,Enterprise,393,11,38,20,33,60878.06
+2026-03-01,Direct,Digital Marketing,Startup,222,16,48,28,29,35077.93
+2026-07-01,Organic Search,IT Support,Individual,118,3,72,22,22,45528.96
+2026-05-01,Organic Search,Website Development,SME,136,3,19,43,14,27740.76
+2026-01-01,Email,Digital Marketing,Enterprise,150,12,55,51,28,88999.3
+2026-07-01,Paid Ads,Digital Marketing,SME,57,2,17,29,37,76521.81
+2026-02-01,Social Media,App Development,SME,382,19,53,51,8,34932.85
+2026-04-01,Direct,Cloud Services,SME,249,24,74,14,23,32581.46
+2026-01-01,Organic Search,App Development,Enterprise,136,6,60,9,11,18073.11
+2026-04-01,Organic Search,Website Development,Startup,92,4,55,5,40,28534.05
+2026-06-01,Organic Search,App Development,Startup,434,40,41,12,16,24119.93
+2026-02-01,Direct,IT Support,Startup,158,4,21,36,16,37922.9
+2026-02-01,Social Media,Website Development,Startup,201,16,62,27,5,14501.57
+2026-01-01,Social Media,App Development,Individual,66,6,33,37,33,38805.5
+2026-02-01,Organic Search,App Development,Startup,182,16,37,18,24,18306.93
+2026-05-01,Email,App Development,Individual,197,14,64,4,7,9363.54
+2026-02-01,Social Media,Digital Marketing,SME,326,14,59,26,25,22588.22
+2026-04-01,Direct,App Development,Startup,281,11,14,12,21,38390.39
+2026-04-01,Social Media,App Development,Enterprise,363,31,51,40,38,63270.81
+2026-07-01,Direct,IT Support,Enterprise,415,37,27,24,21,40919.55
+2026-04-01,Organic Search,App Development,SME,277,17,25,28,13,37142.91
+2026-07-01,Organic Search,Website Development,SME,188,7,17,45,34,62787.73
+2026-04-01,Paid Ads,App Development,Enterprise,448,13,37,41,29,91242.95
+2026-05-01,Organic Search,Website Development,Startup,260,7,28,29,9,21921.84
+2026-08-01,Organic Search,Website Development,Individual,440,34,15,31,2,24243.27
+2026-07-01,Organic Search,App Development,Individual,77,4,21,49,38,83803.18
+2026-03-01,Organic Search,App Development,Enterprise,100,9,72,40,23,33552.17
+2026-06-01,Paid Ads,Digital Marketing,Startup,310,24,51,22,7,13397.98
+2026-01-01,Social Media,App Development,Enterprise,310,10,29,29,22,33700.47
+2026-04-01,Direct,Cloud Services,Startup,399,27,77,43,33,37291.48
+2026-02-01,Organic Search,Cloud Services,Startup,401,21,25,22,36,43798.05
+2026-08-01,Direct,Website Development,Startup,57,3,16,46,16,43331.77
+2026-04-01,Direct,Cloud Services,SME,369,29,41,21,6,39286.28
+2026-02-01,Organic Search,Website Development,Individual,187,15,46,22,7,37793.85
+2026-06-01,Direct,Digital Marketing,Enterprise,87,7,21,37,26,60437.76
+2026-06-01,Direct,Website Development,Enterprise,160,6,52,49,41,77464.01
+2026-06-01,Social Media,App Development,SME,417,9,32,4,30,33707.72
+2026-02-01,Social Media,Website Development,SME,269,21,45,32,8,28143.29
+2026-04-01,Organic Search,Digital Marketing,SME,386,11,51,36,41,95405.27
+2026-06-01,Organic Search,App Development,Individual,272,12,22,24,14,43528.18
+2026-05-01,Social Media,Cloud Services,Startup,185,3,75,5,39,34958.33
+2026-07-01,Direct,Website Development,Individual,305,22,17,8,19,21698.27
+2026-02-01,Paid Ads,IT Support,SME,409,13,17,17,3,14128.64
+2026-02-01,Social Media,Website Development,SME,378,27,35,29,9,34217.97
+2026-04-01,Organic Search,Digital Marketing,Enterprise,98,9,6,12,12,25654.4
+2026-02-01,Organic Search,Website Development,SME,341,8,20,11,34,18509.05
+2026-02-01,Social Media,Website Development,Individual,431,11,13,35,39,71284.54
+2026-06-01,Organic Search,Website Development,Individual,373,17,77,34,28,48646.97
+2026-04-01,Direct,App Development,SME,127,11,42,50,21,49775.31
+2026-06-01,Referral,Cloud Services,Startup,154,5,79,8,13,11253.85
+2026-07-01,Direct,Website Development,SME,218,10,58,43,44,39970.54
+2026-08-01,Direct,IT Support,Individual,266,6,60,38,32,55739.53
+2026-07-01,Social Media,App Development,Startup,427,34,49,4,28,24070.57
+2026-08-01,Direct,App Development,SME,168,8,38,31,33,71588.06
+2026-06-01,Direct,App Development,SME,239,19,13,6,11,18124.2
+2026-07-01,Referral,App Development,Enterprise,304,28,12,3,4,3756.17
+2026-04-01,Direct,Cloud Services,Startup,419,16,11,21,28,43926.48
+2026-01-01,Email,Website Development,Enterprise,315,26,40,28,36,71681.57
+2026-06-01,Referral,Website Development,Individual,198,4,22,27,32,66208.21
+2026-08-01,Organic Search,Digital Marketing,Startup,213,19,7,12,16,15718.41
+2026-05-01,Organic Search,Digital Marketing,Startup,189,13,32,17,17,37760.91
+2026-08-01,Organic Search,App Development,Individual,396,35,74,24,14,50230.22
+2026-05-01,Organic Search,Website Development,Startup,307,6,48,53,36,42229.48
+2026-02-01,Organic Search,Cloud Services,Individual,423,14,25,50,12,34680.6
+2026-07-01,Social Media,App Development,SME,318,16,32,23,22,35106.22
+2026-05-01,Organic Search,Website Development,Startup,230,11,58,24,12,24916.13
+2026-08-01,Organic Search,Website Development,Individual,209,7,58,38,31,81717.15
+2026-02-01,Paid Ads,IT Support,SME,400,20,69,36,36,50689.94
+2026-01-01,Organic Search,Cloud Services,SME,449,13,25,32,23,74521.92
+2026-04-01,Paid Ads,Website Development,SME,337,17,17,27,39,42310.55
+2026-04-01,Organic Search,Website Development,SME,337,28,61,47,32,44260.42
+2026-04-01,Organic Search,Website Development,Startup,429,25,53,30,15,27990.7
+2026-05-01,Social Media,Cloud Services,SME,275,5,58,3,25,16462.6
+2026-01-01,Social Media,Website Development,Individual,60,3,14,51,33,98155.33
+2026-05-01,Referral,Website Development,Startup,59,1,57,47,37,80142.13
+2026-07-01,Social Media,IT Support,Enterprise,320,31,48,6,33,15848.72
+2026-05-01,Paid Ads,Website Development,SME,322,9,51,9,16,11698.66
+2026-01-01,Organic Search,Cloud Services,Enterprise,232,17,57,51,44,38842.76
+2026-01-01,Organic Search,Website Development,Startup,202,19,78,11,36,36261.62
+2026-07-01,Paid Ads,Website Development,Individual,364,31,50,38,4,22529.82
+2026-01-01,Paid Ads,Website Development,SME,383,29,17,21,17,36566.0
+2026-08-01,Email,IT Support,Startup,173,15,41,3,6,8986.24
+2026-01-01,Direct,IT Support,Startup,163,16,28,12,22,29292.08
+2026-04-01,Organic Search,IT Support,Startup,327,22,6,38,11,38177.37
+2026-08-01,Paid Ads,App Development,SME,262,16,18,11,20,16237.67
+2026-08-01,Organic Search,Cloud Services,SME,221,15,14,47,26,73500.94
+2026-07-01,Referral,Website Development,Enterprise,337,21,39,48,5,63951.16
+2026-03-01,Paid Ads,Website Development,SME,223,15,29,44,30,47090.42
+2026-03-01,Direct,Digital Marketing,Startup,162,9,7,34,20,66050.26
+2026-01-01,Paid Ads,Website Development,SME,425,15,21,34,44,95682.93
+2026-08-01,Paid Ads,Website Development,Enterprise,171,5,16,8,3,7507.37
+2026-03-01,Organic Search,Website Development,Startup,81,2,58,50,11,43164.42
+2026-03-01,Referral,Website Development,Startup,271,11,28,40,44,56169.54
+2026-01-01,Direct,Website Development,Startup,168,3,33,19,26,39501.31
+2026-03-01,Paid Ads,Cloud Services,Enterprise,88,5,47,12,21,24433.98
+2026-05-01,Organic Search,App Development,Enterprise,317,13,29,52,20,78744.23
+2026-02-01,Referral,Digital Marketing,SME,282,24,64,29,24,51390.63
+2026-07-01,Direct,IT Support,Enterprise,67,1,69,52,25,44170.46
+2026-02-01,Organic Search,App Development,Enterprise,198,7,32,37,12,57399.11
+2026-01-01,Referral,Website Development,SME,446,34,20,54,35,101979.65
+2026-04-01,Organic Search,App Development,Individual,198,13,51,23,29,35783.01
+2026-07-01,Organic Search,Cloud Services,Startup,175,4,62,27,6,28094.69
+2026-01-01,Email,Website Development,Startup,441,39,31,30,6,35448.26
+2026-08-01,Email,Cloud Services,Startup,351,31,57,49,22,91464.77
+2026-04-01,Direct,App Development,Startup,409,18,46,17,13,41114.89
+2026-02-01,Social Media,Cloud Services,SME,287,13,63,6,5,9416.81
+2026-01-01,Direct,App Development,Individual,184,18,51,31,43,67756.54
+2026-08-01,Organic Search,Website Development,Startup,200,14,38,11,21,27686.53
+2026-07-01,Organic Search,Digital Marketing,Startup,285,17,41,29,39,43544.96
+2026-07-01,Social Media,IT Support,SME,273,23,10,28,26,31389.24
+2026-06-01,Paid Ads,Website Development,Individual,252,10,11,21,15,26879.32
+2026-08-01,Paid Ads,Digital Marketing,SME,305,16,29,30,12,29293.68
+2026-05-01,Paid Ads,App Development,SME,135,5,37,19,33,45449.05
+2026-03-01,Organic Search,Digital Marketing,Startup,199,16,59,45,12,26302.7
+2026-04-01,Direct,IT Support,Startup,284,18,62,43,19,88747.37
+2026-08-01,Organic Search,App Development,Individual,394,28,11,44,28,54227.8
+2026-06-01,Direct,Website Development,Individual,71,2,61,52,19,54163.25
+2026-03-01,Direct,Website Development,Startup,397,14,16,22,24,35634.07
+2026-03-01,Referral,Cloud Services,Individual,334,19,20,47,12,70273.02
+2026-01-01,Organic Search,Cloud Services,SME,318,25,47,42,22,35757.04
+2026-03-01,Organic Search,Website Development,Individual,307,19,11,41,6,36168.68
+2026-05-01,Organic Search,Website Development,SME,78,1,55,51,24,96027.94
+2026-07-01,Paid Ads,IT Support,SME,262,23,77,25,42,47110.66
+2026-06-01,Social Media,Digital Marketing,SME,332,8,36,49,26,57724.0
+2026-03-01,Organic Search,App Development,Enterprise,99,9,79,34,42,95246.66
+2026-01-01,Organic Search,Website Development,Startup,144,3,12,54,11,29811.41
+2026-05-01,Social Media,Website Development,Startup,137,10,76,49,23,61674.76
+2026-02-01,Organic Search,Website Development,SME,93,2,49,35,20,39304.33
+2026-07-01,Paid Ads,Digital Marketing,Enterprise,327,30,63,48,2,42350.94
+2026-07-01,Social Media,Website Development,Startup,220,12,8,7,8,12266.72
+2026-06-01,Organic Search,Cloud Services,Enterprise,238,7,71,45,5,28090.34
+2026-07-01,Organic Search,Website Development,Individual,402,19,33,50,2,43891.95
+2026-03-01,Email,Cloud Services,Startup,233,7,33,36,16,26868.64
+2026-01-01,Organic Search,Cloud Services,Enterprise,52,1,32,42,41,86844.87
+2026-07-01,Organic Search,IT Support,SME,240,23,48,13,13,18919.06
+2026-07-01,Paid Ads,Website Development,Individual,167,9,8,52,23,69030.15
+2026-02-01,Referral,Website Development,Startup,68,5,13,5,23,21841.46
+2026-02-01,Email,Website Development,Enterprise,72,5,9,35,18,56840.83
+2026-04-01,Paid Ads,Digital Marketing,Enterprise,79,5,60,13,30,33927.55
+2026-05-01,Organic Search,Digital Marketing,Individual,344,10,54,18,15,45788.36
+2026-03-01,Organic Search,Cloud Services,Enterprise,157,6,79,20,21,32434.67
+2026-07-01,Paid Ads,Cloud Services,SME,416,34,19,32,34,45418.45
+2026-08-01,Direct,Cloud Services,SME,330,32,36,50,44,107227.39
+2026-07-01,Direct,Website Development,Individual,177,7,32,12,16,19200.92
+2026-01-01,Referral,Digital Marketing,SME,278,11,26,20,13,23971.86
+2026-04-01,Organic Search,App Development,Startup,160,9,21,40,41,61462.01
+2026-05-01,Direct,App Development,Individual,185,18,63,21,21,41224.04
+2026-08-01,Organic Search,App Development,Enterprise,411,17,75,38,31,38639.38
+2026-04-01,Direct,Website Development,Enterprise,235,12,61,15,39,61828.76
+2026-06-01,Organic Search,Website Development,Startup,193,17,30,48,4,34935.16
+2026-05-01,Organic Search,IT Support,Enterprise,121,2,29,5,29,21658.82
+2026-07-01,Organic Search,Website Development,SME,178,4,14,12,27,34563.9
+2026-07-01,Social Media,Cloud Services,Enterprise,413,28,49,40,31,74094.87
+2026-05-01,Social Media,Website Development,Startup,310,28,15,3,14,8275.82
+2026-07-01,Direct,App Development,Enterprise,52,2,57,29,14,46862.86
+2026-03-01,Email,Website Development,Individual,437,25,76,48,3,43469.47
+2026-05-01,Organic Search,App Development,Startup,153,8,72,10,38,28564.4
+2026-04-01,Organic Search,IT Support,Individual,273,15,32,53,39,65697.22
+2026-05-01,Paid Ads,Website Development,SME,369,25,79,48,3,78857.42
+2026-08-01,Organic Search,Cloud Services,Individual,411,23,69,44,37,78004.86
+2026-07-01,Email,App Development,Enterprise,403,22,53,19,27,46087.19
+2026-03-01,Organic Search,Cloud Services,SME,59,3,51,11,12,9811.88
+2026-03-01,Email,Digital Marketing,Enterprise,433,29,56,8,9,16263.89
+2026-06-01,Organic Search,IT Support,Individual,351,22,58,45,41,84176.96
+2026-04-01,Referral,Website Development,SME,280,24,64,27,44,70760.69
+2026-02-01,Direct,Website Development,SME,268,6,61,41,23,68912.36
+2026-02-01,Email,Website Development,Enterprise,115,9,51,51,21,104604.2
+2026-05-01,Organic Search,Cloud Services,Enterprise,161,14,35,30,9,23421.7
+2026-06-01,Direct,Website Development,Enterprise,62,2,50,35,30,45169.82
+2026-01-01,Email,App Development,Enterprise,442,25,30,39,41,68370.74
+2026-05-01,Direct,Cloud Services,SME,135,7,9,11,27,20046.8
+2026-06-01,Social Media,App Development,Enterprise,283,10,56,20,31,34960.63
+2026-04-01,Social Media,IT Support,Startup,139,7,79,23,18,17332.21
+2026-04-01,Direct,Website Development,SME,363,8,58,4,21,17046.66
+2026-04-01,Social Media,Website Development,Startup,103,4,37,45,17,58666.28
+2026-04-01,Direct,IT Support,SME,61,5,54,40,44,69248.85
+2026-04-01,Referral,App Development,SME,258,11,42,42,8,76482.66
+2026-06-01,Organic Search,Cloud Services,SME,63,5,31,38,17,69003.74
+2026-06-01,Organic Search,App Development,Enterprise,170,10,19,52,28,55019.35
+2026-03-01,Email,Website Development,SME,426,38,65,45,24,65470.07
+2026-08-01,Referral,IT Support,SME,69,4,25,39,25,58883.77
+2026-02-01,Direct,IT Support,Startup,124,2,50,17,10,35485.74
+2026-07-01,Social Media,Cloud Services,SME,449,33,73,30,36,71134.34
+2026-04-01,Organic Search,Website Development,Startup,292,6,10,20,21,40296.82
+2026-01-01,Organic Search,Cloud Services,Startup,272,15,42,36,38,59038.91
+2026-07-01,Direct,App Development,SME,119,11,66,24,43,71251.55
+2026-06-01,Organic Search,Website Development,Enterprise,361,11,66,13,18,18919.24
+2026-01-01,Direct,Digital Marketing,SME,260,13,78,15,32,17752.34
+2026-01-01,Organic Search,Website Development,SME,150,11,50,6,9,8783.96
+2026-01-01,Email,Digital Marketing,SME,235,21,17,24,16,25906.35
+2026-03-01,Email,App Development,Individual,181,13,7,9,32,21104.54
+2026-06-01,Social Media,Website Development,SME,160,6,10,45,31,95058.33
+2026-01-01,Direct,Cloud Services,SME,430,31,12,26,21,56027.25
+2026-04-01,Organic Search,Digital Marketing,Startup,181,7,48,6,40,30615.19
+2026-05-01,Paid Ads,IT Support,SME,69,5,37,30,13,27022.4
+2026-01-01,Social Media,IT Support,SME,443,42,79,17,18,20407.99
+2026-03-01,Organic Search,Cloud Services,SME,73,5,54,3,43,43986.02
+2026-07-01,Referral,Cloud Services,SME,276,24,15,5,31,30697.22
+2026-06-01,Paid Ads,IT Support,SME,203,4,32,16,30,49339.12
+2026-08-01,Referral,Website Development,SME,342,26,74,40,20,39861.76
+2026-03-01,Social Media,App Development,Enterprise,279,24,45,52,12,60458.15
+2026-01-01,Social Media,Website Development,Enterprise,359,8,20,3,35,26229.2
+2026-06-01,Direct,Digital Marketing,Enterprise,408,36,72,40,8,69456.8
+2026-05-01,Referral,Digital Marketing,Individual,251,10,52,40,35,67248.21
+2026-01-01,Paid Ads,Website Development,Startup,87,6,60,23,21,54902.19
+2026-03-01,Organic Search,IT Support,Startup,309,25,68,50,39,106953.99
+2026-02-01,Organic Search,Digital Marketing,Startup,237,17,63,31,25,50903.89
+2026-04-01,Organic Search,Website Development,SME,106,2,66,7,11,8070.56
+2026-08-01,Paid Ads,Cloud Services,Individual,69,4,15,51,33,96538.74
+2026-07-01,Email,Digital Marketing,Startup,322,20,22,12,16,21778.57
+2026-03-01,Organic Search,Website Development,Individual,168,15,23,30,38,57651.52
+2026-06-01,Direct,Cloud Services,Startup,120,6,59,23,21,16660.72
+2026-08-01,Direct,Website Development,Individual,53,2,30,52,4,27532.53
+2026-08-01,Email,Digital Marketing,SME,270,21,10,9,38,29945.39
+2026-08-01,Paid Ads,Digital Marketing,Startup,63,3,8,5,41,25524.52
+2026-01-01,Paid Ads,Digital Marketing,SME,52,3,33,47,9,75429.04
+2026-04-01,Direct,App Development,Startup,265,19,63,49,41,60450.13
+2026-01-01,Direct,Digital Marketing,Startup,278,25,21,22,24,41208.4
+2026-06-01,Organic Search,IT Support,SME,385,26,47,21,41,53230.7
+2026-01-01,Organic Search,App Development,Enterprise,235,14,70,37,12,25776.25
+2026-02-01,Paid Ads,IT Support,SME,104,3,38,6,9,9743.83
+2026-04-01,Paid Ads,Website Development,SME,437,12,12,7,30,26658.52
+2026-04-01,Email,Cloud Services,SME,425,13,17,3,31,14503.91
+2026-06-01,Email,Website Development,Enterprise,303,10,12,6,11,10416.3
+2026-07-01,Direct,Website Development,Startup,73,5,69,14,40,27422.09
+2026-02-01,Paid Ads,Website Development,SME,211,16,47,29,29,23910.3
+2026-03-01,Referral,Cloud Services,Startup,207,12,43,44,37,55351.93
+2026-01-01,Paid Ads,App Development,Startup,131,11,63,25,14,22936.41
+2026-05-01,Organic Search,IT Support,Enterprise,208,20,48,27,33,32668.57
+2026-01-01,Direct,Website Development,Startup,237,20,13,23,37,39823.91
+2026-08-01,Organic Search,App Development,SME,109,8,41,54,38,72753.07
+2026-01-01,Email,App Development,Enterprise,354,22,78,26,27,34026.61
+2026-03-01,Social Media,IT Support,Startup,368,20,40,27,23,41946.24
+2026-01-01,Organic Search,App Development,SME,415,11,32,47,5,65208.51
+2026-02-01,Social Media,Cloud Services,Startup,260,13,46,48,32,90404.73
+2026-02-01,Social Media,Digital Marketing,Individual,201,18,47,34,19,61795.28
+2026-04-01,Organic Search,Cloud Services,SME,158,13,46,34,39,61797.65
+2026-06-01,Organic Search,Website Development,Enterprise,125,4,70,7,25,22057.14
+2026-07-01,Social Media,Website Development,SME,79,4,59,38,24,63821.95
+2026-05-01,Direct,Digital Marketing,Startup,363,30,76,48,23,77826.93
+2026-08-01,Paid Ads,Website Development,SME,166,4,52,44,3,31808.12
+2026-01-01,Direct,Digital Marketing,Individual,405,20,26,51,32,59949.63
+2026-01-01,Paid Ads,App Development,SME,241,21,31,44,12,40502.51
+2026-03-01,Direct,Digital Marketing,Enterprise,68,3,71,41,29,82869.3
+2026-06-01,Direct,IT Support,Individual,222,5,17,18,33,39528.83
+2026-02-01,Referral,Digital Marketing,Startup,277,17,49,35,6,55547.43
+2026-05-01,Direct,App Development,Startup,399,35,14,51,39,61989.71
+2026-04-01,Organic Search,IT Support,SME,232,15,13,23,11,25831.75
+2026-02-01,Organic Search,App Development,SME,162,6,58,11,41,26383.42
+2026-08-01,Paid Ads,App Development,Enterprise,232,11,31,8,25,13331.18
+2026-06-01,Social Media,Cloud Services,Individual,195,10,38,53,36,95061.96
+2026-08-01,Social Media,Digital Marketing,SME,368,24,5,47,24,73611.69
+2026-07-01,Organic Search,Digital Marketing,Startup,165,13,36,37,18,37606.36
+2026-04-01,Organic Search,IT Support,Enterprise,162,4,75,41,2,63030.06
+2026-07-01,Organic Search,App Development,Startup,300,27,71,24,32,43029.01
+2026-03-01,Organic Search,App Development,Enterprise,300,6,24,43,32,92636.7
+2026-08-01,Direct,IT Support,SME,352,17,39,7,43,20972.57
+2026-03-01,Direct,Website Development,Enterprise,362,8,21,44,43,57307.37
+2026-01-01,Direct,Website Development,Startup,167,8,22,25,35,46521.69
+2026-07-01,Referral,App Development,SME,350,21,49,19,10,15414.69
+2026-06-01,Organic Search,Website Development,SME,210,12,57,14,23,22058.78
+2026-08-01,Direct,Website Development,SME,247,8,72,25,14,37461.48
+2026-05-01,Paid Ads,Website Development,Startup,309,22,69,18,26,47220.8
+2026-04-01,Direct,Website Development,Enterprise,197,4,5,5,19,16787.75
+2026-02-01,Social Media,Website Development,Individual,289,23,62,32,13,28484.56
+2026-06-01,Paid Ads,Digital Marketing,Startup,96,9,30,24,41,63039.7
+2026-06-01,Referral,App Development,Startup,448,21,24,11,18,18783.34
+2026-03-01,Organic Search,App Development,Startup,247,15,14,31,16,21914.76
+2026-07-01,Referral,Cloud Services,SME,96,4,63,49,43,83625.8
+2026-08-01,Direct,Website Development,SME,127,2,79,39,16,52748.37
+2026-08-01,Organic Search,Digital Marketing,SME,173,8,45,25,16,18846.28
+2026-01-01,Direct,IT Support,Startup,124,10,9,15,40,22168.88
+2026-01-01,Email,Website Development,SME,408,27,69,34,14,72514.66
+2026-04-01,Direct,App Development,SME,186,5,21,48,18,30911.32
+2026-03-01,Organic Search,Digital Marketing,SME,139,12,26,54,33,74247.22
+2026-06-01,Social Media,Digital Marketing,Individual,449,28,45,49,10,61172.24
+2026-08-01,Organic Search,App Development,Startup,374,32,72,50,41,56591.46
+2026-05-01,Organic Search,Cloud Services,Enterprise,110,7,73,25,21,22228.35
+2026-03-01,Organic Search,Website Development,SME,187,12,15,47,27,65537.47
+2026-04-01,Organic Search,Digital Marketing,SME,99,2,60,19,28,38584.44
+2026-04-01,Organic Search,Website Development,Enterprise,308,10,55,42,22,64047.13
+2026-03-01,Organic Search,Digital Marketing,Enterprise,156,15,25,23,19,45501.0
+2026-04-01,Social Media,Cloud Services,Individual,162,6,30,4,14,18123.42
+2026-03-01,Organic Search,Cloud Services,Startup,399,39,23,39,17,69165.06
+2026-02-01,Organic Search,App Development,Startup,303,18,64,8,10,10674.42
+2026-03-01,Referral,Website Development,Enterprise,167,5,75,46,13,53914.52
+2026-07-01,Direct,Website Development,SME,247,6,51,20,39,52767.17
+2026-03-01,Social Media,Website Development,Startup,386,14,75,32,20,53420.13
+2026-04-01,Organic Search,Website Development,Startup,414,38,30,24,8,33604.77
+2026-08-01,Organic Search,IT Support,Startup,100,5,44,35,36,62935.86
+2026-07-01,Organic Search,App Development,Individual,294,15,9,32,19,22787.13
+2026-04-01,Organic Search,Website Development,Startup,84,3,25,19,17,26669.44
+2026-01-01,Organic Search,Digital Marketing,SME,351,11,8,45,40,55556.52
+2026-01-01,Organic Search,Digital Marketing,Startup,118,6,27,34,5,23088.97
+2026-08-01,Organic Search,Digital Marketing,SME,398,12,19,44,26,44018.86
+2026-08-01,Organic Search,Digital Marketing,Startup,369,32,12,53,33,90605.41
+2026-07-01,Direct,Website Development,SME,98,4,45,16,41,53215.98
+2026-02-01,Organic Search,App Development,Startup,123,6,23,12,14,21862.31
+2026-08-01,Organic Search,IT Support,Enterprise,241,13,50,49,18,67424.24
+2026-01-01,Direct,Cloud Services,Startup,310,17,32,53,38,67763.58
+2026-03-01,Social Media,Website Development,SME,405,40,72,38,7,31188.05
+2026-04-01,Organic Search,IT Support,Individual,119,7,19,36,20,55391.48
+2026-01-01,Paid Ads,Website Development,Enterprise,139,3,41,11,14,21321.9
+2026-01-01,Social Media,Website Development,SME,309,21,5,44,27,86033.55
+2026-02-01,Organic Search,App Development,SME,175,5,71,30,15,44650.84
+2026-07-01,Referral,Cloud Services,SME,280,6,28,13,32,23882.63
+2026-07-01,Referral,Cloud Services,Enterprise,344,33,31,16,5,9532.67
+2026-06-01,Organic Search,Website Development,Individual,178,14,44,41,40,42949.4
+2026-02-01,Organic Search,Digital Marketing,Enterprise,329,32,67,49,9,34345.18
+2026-03-01,Paid Ads,Website Development,SME,362,21,65,21,26,43716.45
+2026-07-01,Social Media,Website Development,Enterprise,149,9,40,17,14,15714.19
+2026-04-01,Organic Search,Digital Marketing,SME,375,12,28,30,33,36927.07
+2026-08-01,Organic Search,Digital Marketing,Startup,346,13,28,26,39,62960.3
+2026-02-01,Organic Search,Digital Marketing,SME,231,20,8,10,39,53632.98
+2026-08-01,Direct,IT Support,Individual,223,10,71,45,29,74373.51
+2026-01-01,Social Media,Cloud Services,Startup,365,31,38,11,31,24142.23
+2026-04-01,Organic Search,Cloud Services,Enterprise,413,31,61,49,4,22733.79
+2026-04-01,Direct,Website Development,Startup,237,8,53,35,29,60041.37
+2026-01-01,Social Media,App Development,SME,106,6,57,35,4,23887.49
+2026-02-01,Organic Search,App Development,Startup,80,5,27,21,35,38789.13
+2026-01-01,Organic Search,Website Development,SME,133,5,73,5,17,10565.96
+2026-08-01,Social Media,IT Support,Enterprise,201,17,57,12,23,33050.9
+2026-06-01,Referral,App Development,SME,85,5,66,42,33,53345.78
+2026-04-01,Direct,Website Development,Enterprise,262,8,45,49,39,100628.18
+2026-05-01,Direct,Website Development,Enterprise,413,27,61,44,9,61049.45
+2026-05-01,Organic Search,Cloud Services,Individual,155,15,64,3,9,5529.77
+2026-08-01,Direct,Website Development,Startup,391,12,58,31,7,44103.39
+2026-03-01,Direct,IT Support,SME,269,22,74,52,15,40620.66
+2026-07-01,Organic Search,App Development,Startup,440,16,61,36,33,33315.01
+2026-01-01,Organic Search,App Development,Individual,212,17,14,53,36,108303.3
+2026-01-01,Organic Search,Cloud Services,Individual,269,21,44,15,11,14664.77
+2026-03-01,Organic Search,IT Support,SME,319,14,11,3,4,8283.08
+2026-03-01,Organic Search,App Development,Enterprise,169,7,42,36,13,33975.59
+2026-08-01,Organic Search,Cloud Services,SME,443,36,65,31,32,54992.83
+2026-08-01,Organic Search,Cloud Services,SME,385,21,7,50,30,59608.83
+2026-03-01,Organic Search,Website Development,Startup,449,35,55,49,6,30699.72
+2026-04-01,Referral,Digital Marketing,Enterprise,231,7,51,15,26,19193.42
+2026-08-01,Direct,IT Support,Startup,155,13,72,50,42,94127.42
+2026-06-01,Social Media,Cloud Services,Enterprise,266,20,42,51,32,95561.22
+2026-08-01,Paid Ads,IT Support,Enterprise,254,23,40,31,22,54555.92
+2026-01-01,Direct,Digital Marketing,Enterprise,119,3,45,41,21,57601.42
+2026-08-01,Organic Search,IT Support,Startup,93,6,73,26,40,76344.78
+2026-04-01,Direct,IT Support,SME,378,25,17,28,23,57333.95
+2026-03-01,Direct,Cloud Services,Startup,350,16,62,19,5,31209.71
+2026-01-01,Social Media,Cloud Services,SME,277,15,54,9,14,21654.86
+2026-08-01,Direct,Cloud Services,Startup,233,5,34,15,43,40491.97
+2026-04-01,Organic Search,IT Support,Individual,156,12,66,7,21,27995.96
+2026-06-01,Organic Search,Website Development,SME,133,8,29,28,14,31800.25
+2026-08-01,Organic Search,Digital Marketing,SME,387,9,31,51,18,91326.06
+2026-04-01,Social Media,Digital Marketing,SME,299,22,55,5,37,33197.65
+2026-06-01,Direct,Website Development,SME,412,23,61,9,34,14842.38
+2026-03-01,Organic Search,IT Support,SME,70,1,51,51,2,23844.4
+2026-08-01,Email,Website Development,SME,245,23,43,41,16,52061.03
+2026-06-01,Social Media,App Development,Individual,227,21,20,3,14,9803.99
+2026-01-01,Organic Search,IT Support,SME,56,3,26,51,18,95830.45
+2026-03-01,Organic Search,Website Development,Individual,119,3,58,19,25,18786.23
+2026-01-01,Organic Search,IT Support,Individual,176,14,25,45,9,74712.78
+2026-05-01,Organic Search,IT Support,Startup,448,26,76,27,28,60620.33
+2026-02-01,Organic Search,App Development,Individual,209,9,20,5,24,18881.44
+2026-08-01,Organic Search,Website Development,Startup,297,17,63,17,9,35569.83
+2026-06-01,Organic Search,Website Development,Enterprise,252,15,35,31,9,63560.46
+2026-02-01,Organic Search,Cloud Services,SME,197,12,46,45,27,86438.79
+2026-02-01,Referral,Digital Marketing,Individual,192,10,78,34,14,57328.87
+2026-06-01,Organic Search,Cloud Services,Individual,248,16,36,28,40,87535.64
+2026-03-01,Direct,Website Development,Enterprise,203,18,63,18,38,34737.1
+2026-08-01,Direct,Cloud Services,Enterprise,425,20,38,27,29,48248.02
+2026-05-01,Email,App Development,SME,433,33,13,30,26,60075.42
+2026-01-01,Organic Search,IT Support,Startup,191,17,15,11,17,18798.68
+2026-04-01,Direct,Website Development,SME,362,20,14,3,3,5897.07
+2026-01-01,Email,IT Support,Startup,214,11,21,31,19,31453.52
+2026-04-01,Paid Ads,Cloud Services,Enterprise,363,24,72,24,18,42801.04
+2026-01-01,Paid Ads,Digital Marketing,SME,70,4,52,18,31,24123.61
+2026-06-01,Organic Search,App Development,Individual,131,11,56,43,40,84752.62
+2026-05-01,Organic Search,Cloud Services,SME,118,6,29,53,14,50735.94
+2026-08-01,Social Media,Digital Marketing,Enterprise,180,17,25,46,33,35005.89
+2026-04-01,Referral,Website Development,Startup,136,3,69,53,30,71545.31
+2026-08-01,Direct,Digital Marketing,Individual,267,5,67,43,31,29465.63
+2026-08-01,Direct,Cloud Services,Individual,354,25,55,9,19,26704.09
+2026-08-01,Organic Search,Website Development,SME,420,18,40,16,14,32594.64
+2026-07-01,Paid Ads,Website Development,SME,394,15,70,31,44,90875.16
+2026-03-01,Organic Search,IT Support,Enterprise,390,17,19,21,22,32020.31
+2026-01-01,Organic Search,Website Development,Startup,433,17,43,21,31,26591.87
+2026-08-01,Direct,Cloud Services,SME,445,9,74,4,22,24578.29
+2026-01-01,Direct,App Development,SME,210,20,5,43,18,88183.91
+2026-08-01,Organic Search,Cloud Services,Startup,227,8,27,47,41,89698.89
+2026-04-01,Organic Search,Website Development,SME,166,13,43,17,20,32643.11
+2026-03-01,Social Media,Digital Marketing,Startup,245,19,61,5,16,9211.42
+2026-03-01,Organic Search,Digital Marketing,Startup,432,40,38,13,10,28826.9
+2026-06-01,Direct,Digital Marketing,Startup,376,8,45,48,11,70443.56
+2026-07-01,Organic Search,IT Support,Individual,135,12,77,32,32,49034.08
+2026-06-01,Direct,Website Development,SME,338,21,17,42,24,45897.05
+2026-06-01,Direct,IT Support,Individual,130,9,74,20,31,60691.15
+2026-06-01,Organic Search,Website Development,SME,201,14,10,53,34,55178.19
+2026-06-01,Organic Search,Website Development,SME,110,9,56,50,10,46723.7
+2026-06-01,Organic Search,App Development,SME,110,5,7,4,2,5336.63
+2026-05-01,Organic Search,App Development,SME,403,31,67,34,36,34907.6
+2026-03-01,Email,IT Support,Startup,77,4,53,10,12,15674.35
+2026-06-01,Organic Search,Cloud Services,SME,92,7,51,24,35,63505.21
+2026-08-01,Paid Ads,App Development,Startup,218,21,59,8,17,25576.93
+2026-03-01,Organic Search,Website Development,SME,135,4,68,14,10,27256.13
+2026-03-01,Social Media,Digital Marketing,Enterprise,226,22,69,49,33,103808.09
+2026-02-01,Paid Ads,App Development,Startup,66,1,71,42,16,57017.47
+2026-05-01,Direct,App Development,Startup,147,2,19,38,13,66314.83
+2026-06-01,Direct,Website Development,Enterprise,247,5,36,17,34,44663.32
+2026-01-01,Direct,IT Support,SME,147,6,72,30,15,54772.22
+2026-04-01,Organic Search,Cloud Services,Startup,114,8,22,54,9,104900.27
+2026-07-01,Referral,Website Development,Individual,379,9,47,51,9,45070.55
+2026-08-01,Paid Ads,Website Development,Startup,390,7,39,47,28,59902.1
+2026-01-01,Email,Cloud Services,Enterprise,54,5,62,20,13,29262.03
+2026-05-01,Organic Search,Cloud Services,Individual,51,4,37,4,2,3931.34
+2026-04-01,Social Media,Website Development,Startup,71,6,18,15,44,49134.14
+2026-05-01,Referral,Digital Marketing,Startup,161,14,38,47,41,88012.09
+2026-08-01,Organic Search,Website Development,Startup,106,8,65,17,43,50609.51
+2026-03-01,Organic Search,App Development,SME,115,3,8,22,12,25518.75
+2026-04-01,Social Media,Digital Marketing,Startup,379,19,63,31,40,44564.26
+2026-03-01,Direct,App Development,Enterprise,147,11,33,44,44,42761.94
+2026-08-01,Paid Ads,Cloud Services,Startup,193,8,10,31,32,66909.8
+2026-01-01,Organic Search,App Development,SME,417,31,53,5,18,10704.07
+2026-08-01,Paid Ads,Website Development,Individual,174,3,44,21,34,35228.6
+2026-01-01,Organic Search,Digital Marketing,Enterprise,216,9,69,5,33,34932.02
+2026-04-01,Organic Search,App Development,SME,135,8,73,16,30,26274.15
+2026-04-01,Organic Search,Digital Marketing,SME,125,8,31,42,22,62525.9
+2026-06-01,Paid Ads,Website Development,SME,393,26,10,6,22,25509.14
+2026-05-01,Social Media,Website Development,SME,343,26,17,54,41,103180.14
+2026-06-01,Direct,Website Development,SME,108,2,68,13,24,26223.88
+2026-05-01,Organic Search,Cloud Services,Startup,187,5,66,33,7,36930.13
+2026-06-01,Referral,App Development,Individual,148,13,23,45,23,80326.21
+2026-03-01,Direct,Digital Marketing,SME,241,17,47,34,39,84198.59
+2026-04-01,Paid Ads,App Development,Startup,292,8,78,29,38,51932.39
+2026-01-01,Direct,Digital Marketing,SME,368,32,24,32,9,42199.64
+2026-05-01,Organic Search,Website Development,SME,98,3,72,45,42,46443.94
+2026-08-01,Direct,Digital Marketing,Enterprise,81,4,48,4,36,22005.19
+2026-05-01,Organic Search,IT Support,Enterprise,440,13,27,51,12,58560.03
+2026-01-01,Social Media,IT Support,Enterprise,326,25,6,11,25,29185.57
+2026-06-01,Direct,IT Support,Startup,69,5,26,30,22,24148.1
+2026-05-01,Organic Search,IT Support,SME,203,7,61,33,3,51042.91
+2026-07-01,Referral,Cloud Services,SME,432,38,76,36,41,59627.56
+2026-03-01,Direct,Website Development,Startup,117,6,11,17,20,31894.79
+2026-04-01,Direct,Website Development,Startup,415,18,60,50,40,64002.93
+2026-01-01,Referral,Digital Marketing,Enterprise,421,13,71,27,29,38022.74
+2026-04-01,Social Media,Cloud Services,Startup,263,10,20,38,18,67430.45
